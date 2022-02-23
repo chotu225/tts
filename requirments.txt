@@ -1,0 +1,4 @@
+gTTs
+PYttsx3
+playsound==1.2.2
+flask
